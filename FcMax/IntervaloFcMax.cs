@@ -16,7 +16,6 @@ namespace FcMax
         {
             Program p = new Program();
             p.setAttributes();
-            Console.WriteLine(p.getIdade());
             FConter.setDados(p.getIdade(), p.getSexo());
             this.FcMax[0] = FConter.IntervaloFcMax_CalculaFcMaxCaminhada();
             this.FcMin[0] = FConter.CalculaFcMax() * 0.55;

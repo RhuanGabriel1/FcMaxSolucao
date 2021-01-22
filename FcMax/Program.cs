@@ -9,8 +9,8 @@ namespace FcMax
     class Program
     {
 
-        static char sexo;
-        static int idade;
+         private char sexo;
+         private int idade;
 
         public  char getSexo()
         {
@@ -34,11 +34,11 @@ namespace FcMax
              sexo = char.Parse(Console.ReadLine());
             Fc.setDados(idade, sexo);
 
-            IntervaloFcMax a = new IntervaloFcMax();
             Console.WriteLine("Frequência máxima: {0}", Fc.CalculaFcMax());
             Console.WriteLine("Intervalo da frequência máxima de uma caminhada: {0}", Fc.IntervaloFcMax_CalculaFcMaxCaminhada());
             Console.WriteLine("Intervalo da frequência de uma corrida leve: {0}", Fc.IntervaloFcMax_CalculaFcMaxCorridaLeve());
             Console.WriteLine("Intervalo da frequência de uma corrida intensa: {0}", Fc.IntervaloFcMax_CalculaFcMaxCorridaIntensa());
+            
             //não execute esse for na main, execute onde você faz o metódo.. assim você poupa o código e faz ele rodar com menor gargalos
             //for (int i = 0; i < 5; i++)
             //{
