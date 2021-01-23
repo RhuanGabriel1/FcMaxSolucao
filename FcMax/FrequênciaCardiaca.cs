@@ -34,6 +34,11 @@ namespace FcMax
             }
         }
 
+        internal void setDados()
+        {
+            throw new NotImplementedException();
+        }
+
         public double IntervaloFcMax_CalculaFcMaxCaminhada()
         {
             double fcf = CalculaFcMax();

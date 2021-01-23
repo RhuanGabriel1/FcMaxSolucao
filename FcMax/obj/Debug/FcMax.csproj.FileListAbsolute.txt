@@ -5,3 +5,10 @@ C:\Users\lg\Desktop\FcMaxSolucao\FcMax\obj\Debug\FcMax.csprojAssemblyReference.c
 C:\Users\lg\Desktop\FcMaxSolucao\FcMax\obj\Debug\FcMax.csproj.CoreCompileInputs.cache
 C:\Users\lg\Desktop\FcMaxSolucao\FcMax\obj\Debug\FcMax.exe
 C:\Users\lg\Desktop\FcMaxSolucao\FcMax\obj\Debug\FcMax.pdb
+C:\Users\Leandro\Documents\GitHub\FcMaxSolucao\FcMax\bin\Debug\FcMax.exe.config
+C:\Users\Leandro\Documents\GitHub\FcMaxSolucao\FcMax\bin\Debug\FcMax.exe
+C:\Users\Leandro\Documents\GitHub\FcMaxSolucao\FcMax\bin\Debug\FcMax.pdb
+C:\Users\Leandro\Documents\GitHub\FcMaxSolucao\FcMax\obj\Debug\FcMax.csprojAssemblyReference.cache
+C:\Users\Leandro\Documents\GitHub\FcMaxSolucao\FcMax\obj\Debug\FcMax.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\GitHub\FcMaxSolucao\FcMax\obj\Debug\FcMax.exe
+C:\Users\Leandro\Documents\GitHub\FcMaxSolucao\FcMax\obj\Debug\FcMax.pdb
