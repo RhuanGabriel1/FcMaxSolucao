@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -25,12 +24,12 @@ namespace FcMax
 
             if (this.sexo == 'F' || this.sexo == 'f')
             {
-                int fcf = 226 - idade;
+                int fcf = 226 - this.idade;
                 return fcf;
             }
             else
             {
-                int fcm = 220 - idade;
+                int fcm = 220 - this.idade;
                 return fcm;
             }
         }

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -9,9 +8,16 @@ namespace FcMax
     class IntervaloFcMax
     {
         FrequênciaCardiaca FConter = new FrequênciaCardiaca();
+        
         public double[] FcMin = new double[3];
         public double[] FcMax = new double[3];
         public double teste;
+
+
+
+
+        
+        
         public void conter()
         {
 
